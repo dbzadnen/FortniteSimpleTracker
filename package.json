@@ -5,5 +5,12 @@
   "main": "Main.py",
   "engines": {
     "node": "8.9.4"
+  },
+    "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.py": "1.0.0",
+    "request": "2.81.0"
   }
 }

@@ -174,8 +174,7 @@ async def spam(ctx,user: discord.Member,a=10,*strr):
     while i < a:
        await mybot.say(st + " <@"+user.id+">")
        i+=1
-       await asyncio.sleep(10)
 
 @mybot.command(pass_context =True)
 
-mybot.run("NDYxNjYwNzM1NDYyNzAzMTE2.DhWj0g.GQ4e4XVNRzklWpUblEHTKaPksgY")
+mybot.run("process.env.bot_token")

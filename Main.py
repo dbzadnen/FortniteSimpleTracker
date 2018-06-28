@@ -177,4 +177,4 @@ async def spam(ctx,user: discord.Member,a=10,*strr):
 
 @mybot.command(pass_context =True)
 
-mybot.run("process.env.bot_token")
+mybot.run("process.env.BOT_TOKEN")

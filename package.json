@@ -7,9 +7,6 @@
     "node": "8.9.4"
   },
     "scripts": {
-    "start": "node bot.js"
-  },
-  "dependencies": {
-    "discord.py": "0.16.12",
+    "start": "Main.py"
   }
 }

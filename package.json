@@ -2,7 +2,7 @@
   "name": "FortniteSimpleTracker",
   "description": "fortnite tracker",
   "version": "0.0.0",
-  "main": "Main.py",
+  "main": "node Main.py",
   "engines": {
     "node": "8.9.4"
   },

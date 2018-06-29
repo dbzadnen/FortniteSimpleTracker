@@ -1,0 +1,21 @@
+{
+  "name": "Mloukiyakd",
+  "version": "1.0.0",
+  "description": "An in-depth guide on deploying your Discord.js bot on Heroku",
+  "main": "bot.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbzadnen/FortniteSimpleTracker.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.py"
+  ],
+  "author": "dbzadnen",
+  "license": "MLK",
+
+  "homepage": "https://github.com/dbzadnen/FortniteSimpleTracker#readme"
+}
